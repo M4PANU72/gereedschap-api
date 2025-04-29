@@ -1,0 +1,89 @@
+{
+    "gereedschap": [
+      {
+        "id": 1,
+        "naam": "Boormachine",
+        "type": "Elektrisch",
+        "prijs": 79.99,
+        "materiaal": "Metaal"
+      },
+      {
+        "id": 2,
+        "naam": "Hamer",
+        "type": "Handgereedschap",
+        "prijs": 15.50,
+        "materiaal": "Staal en hout"
+      },
+      {
+        "id": 3,
+        "naam": "Schroevendraaier",
+        "type": "Handgereedschap",
+        "prijs": 5.00,
+        "materiaal": "Staal en kunststof"
+      },
+      {
+        "id": 4,
+        "naam": "Cirkelzaag",
+        "type": "Elektrisch",
+        "prijs": 129.00,
+        "materiaal": "Metaal"
+      },
+      {
+        "id": 5,
+        "naam": "Waterpas",
+        "type": "Meetgereedschap",
+        "prijs": 12.99,
+        "materiaal": "Aluminium"
+      },
+      {
+        "id": 6,
+        "naam": "Pijpsleutel",
+        "type": "Handgereedschap",
+        "prijs": 22.75,
+        "materiaal": "Chroom-vanadium"
+      },
+      {
+        "id": 7,
+        "naam": "Lijmpistool",
+        "type": "Elektrisch",
+        "prijs": 18.90,
+        "materiaal": "Kunststof"
+      },
+      {
+        "id": 8,
+        "naam": "Schuurmachine",
+        "type": "Elektrisch",
+        "prijs": 99.99,
+        "materiaal": "Metaal en kunststof"
+      },
+      {
+        "id": 9,
+        "naam": "Beitelset",
+        "type": "Handgereedschap",
+        "prijs": 34.50,
+        "materiaal": "Gehard staal"
+      },
+      {
+        "id": 10,
+        "naam": "Rolmaat",
+        "type": "Meetgereedschap",
+        "prijs": 9.95,
+        "materiaal": "Staal en kunststof"
+      }
+    ],
+    "categorieen": [
+      {
+        "id": 1,
+        "naam": "Handgereedschap"
+      },
+      {
+        "id": 2,
+        "naam": "Elektrisch gereedschap"
+      },
+      {
+        "id": 3,
+        "naam": "Meetgereedschap"
+      }
+    ]
+  }
+  
